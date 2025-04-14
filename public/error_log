@@ -1,0 +1,2 @@
+[02-Oct-2022 02:44:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/knwkxxxxpt6g/public_html/proyectos/latamcodev.pro/lavanderia/vendor/composer/platform_check.php on line 24
+[02-Oct-2022 02:44:16 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.33. in /home/knwkxxxxpt6g/public_html/proyectos/latamcodev.pro/lavanderia/vendor/composer/platform_check.php on line 24
